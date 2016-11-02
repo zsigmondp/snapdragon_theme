@@ -2,7 +2,7 @@
 /**
  * Functions used for development purposes
  *
- * @author      Flurin Dürst
+ * @author      Zsigmond Peternak
  * @version     1.4
  * @since       WPegg 0.1.0
  *

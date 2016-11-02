@@ -2,7 +2,7 @@
 /**
  * Template for ACF flexible elements
  *
- * @author      Flurin Dürst
+ * @author      Zsigmond Peternak
  * @version     1.0.1
  * @since       WPSeed 0.10.0
  *

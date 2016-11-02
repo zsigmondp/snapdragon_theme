@@ -2,7 +2,7 @@
 /**
  * Template for the Home-Site containing a teaser-image.
  *
- * @author      Flurin Dürst
+ * @author      Zsigmond Peternak
  * @version     1.1.1
  * @since       WPSeed 0.2
  *

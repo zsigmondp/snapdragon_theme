@@ -1,6 +1,6 @@
 <?
 /**
- * @author      Flurin Dürst
+ * @author      Zsigmond Peternak
  * @version     1.2.1
  * @since       WPSeed 0.1
  */

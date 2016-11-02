@@ -2,7 +2,7 @@
 /**
  * Functions that control access to the site
  *
- * @author      Flurin Dürst
+ * @author      Zsigmond Peternak
  * @version     1.0
  * @since       WPSeed 0.11.3
  *

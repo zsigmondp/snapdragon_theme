@@ -2,7 +2,7 @@
   "name": "wpseed",
   "version": "1.0.0",
   "authors": [
-    "Flurin Dürst <flurin@flurinduerst.ch>"
+    "Zsigmond Peternak <zsiga@c3.hu>"
   ],
   "main": "gulpfile.js",
   "license": "MIT",

@@ -2,7 +2,7 @@
 /**
  * Template for Sites with Sub-Sites.
  *
- * @author      Flurin Dürst
+ * @author      Zsigmond Peternak
  * @version     1.4.1
  * @since       WPSeed 0.2
  *

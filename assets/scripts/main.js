@@ -1,7 +1,7 @@
 /**
  * All sorts javascript/jQuery functions go here
  *
- * @author      Flurin Dürst
+ * @author      Zsigmond Peternak
  * @version     3.1
  * @since       WPSeed 0.12
  *
